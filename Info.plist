@@ -1,0 +1,8 @@
+<key>AWSAccessKey</key>
+<string>$(AWS_ACCESS_KEY)</string>
+<key>AWSSecretKey</key>
+<string>$(AWS_SECRET_KEY)</string>
+<key>NSCameraUsageDescription</key>
+<string>We need access to your camera to take photos of ingredients.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We need access to your photo library to select ingredient photos.</string>
